@@ -4,7 +4,7 @@ import Card from "./Card"
 const Cards = ({robots}) => { 
     
 return(
-    <div className="grid items-center justify-center w-3/4 gap-5 md:grid-cols-2 lg:grid-cols-4">
+    <div className="grid items-center justify-between w-5/6 gap-5 md:grid-cols-2 lg:grid-cols-4">
         {
         robots.map(robot =>{
             return <Card

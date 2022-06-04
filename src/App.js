@@ -2,7 +2,7 @@ import React,{Component} from "react";
 import Cards from "./Cards";
 import SearchBox from "./SearchBox";
 import Scroll from "./Scroll";
-
+import Footer from "./Footer";
 class App extends Component {
     constructor(){
         super()
@@ -27,11 +27,12 @@ class App extends Component {
         return robots.name.toLowerCase().includes(this.state.searchfield.toLocaleLowerCase())}  )
     
           return(
-                <div className="flex-row items-center justify-center w-full ">
+                <div className="w-full h-screen">
                     <SearchBox searchChange={this.onSearchChange}/>
                     <Scroll>
                         <Cards robots={filteredRobots}/>
                     </Scroll>
+                    <Footer/>
                 </div>
         );
     }
