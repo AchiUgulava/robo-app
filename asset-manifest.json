@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/robo-app/static/css/main.0c2c857a.css",
-    "main.js": "/robo-app/static/js/main.f441c3cf.js",
-    "static/js/787.28cb0dcd.chunk.js": "/robo-app/static/js/787.28cb0dcd.chunk.js",
-    "static/media/Madrigal-mLJ92.woff": "/robo-app/static/media/Madrigal-mLJ92.bd107c01cda541b9b743.woff",
-    "index.html": "/robo-app/index.html",
-    "main.0c2c857a.css.map": "/robo-app/static/css/main.0c2c857a.css.map",
-    "main.f441c3cf.js.map": "/robo-app/static/js/main.f441c3cf.js.map",
-    "787.28cb0dcd.chunk.js.map": "/robo-app/static/js/787.28cb0dcd.chunk.js.map"
+    "main.css": "/users-app/static/css/main.901d68ca.css",
+    "main.js": "/users-app/static/js/main.50cab6dc.js",
+    "static/js/787.28cb0dcd.chunk.js": "/users-app/static/js/787.28cb0dcd.chunk.js",
+    "static/media/Madrigal-mLJ92.woff": "/users-app/static/media/Madrigal-mLJ92.bd107c01cda541b9b743.woff",
+    "index.html": "/users-app/index.html",
+    "main.901d68ca.css.map": "/users-app/static/css/main.901d68ca.css.map",
+    "main.50cab6dc.js.map": "/users-app/static/js/main.50cab6dc.js.map",
+    "787.28cb0dcd.chunk.js.map": "/users-app/static/js/787.28cb0dcd.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.0c2c857a.css",
-    "static/js/main.f441c3cf.js"
+    "static/css/main.901d68ca.css",
+    "static/js/main.50cab6dc.js"
   ]
 }
